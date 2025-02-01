@@ -11,6 +11,11 @@ This game was made in less then a week for the HEAVENJAM #1.
 
 Music by Snabisch on opengameart: https://opengameart.org/content/meeting-place-nes-version
 
+### Building from source
+
+Clone this repository, and make a ```build``` directory and run ```cmake .. && make```
+Then run ```Run&Jump.exe``` if you're on windows, or ```./Run&Jump``` if you're on linux.
+
 ### Screenshots
 
 ![Screenshot1](https://github.com/user-attachments/assets/601b8ef9-bf51-4639-8510-a396d8d77289)
