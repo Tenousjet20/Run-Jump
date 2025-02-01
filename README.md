@@ -13,7 +13,7 @@ Music by Snabisch on opengameart: https://opengameart.org/content/meeting-place-
 
 ### Building from source
 
-Clone this repository, and make a ```build``` directory and run ```cmake .. && make```
+Clone this repository, and make a ```build``` directory and run ```cmake .. && make```.
 Then run ```Run&Jump.exe``` if you're on windows, or ```./Run&Jump``` if you're on linux.
 
 ### Screenshots
